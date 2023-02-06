@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "name": "lakshan",
+      "email": "lakshanindrajith00@gmail.com",
+      "phone": "0702429197",
+      "active": true,
+      "id": 1
+    },
+    {
+      "name": "christo paul",
+      "email": "cp@in.com",
+      "phone": "0804157868",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 5,
+      "name": "sathish",
+      "email": "sathish@in.com",
+      "phone": "0254586932"
+    }
+  ]
+}
