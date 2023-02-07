@@ -84,8 +84,8 @@ const EmpCreate = () => {
                                     </div>
                                     <div className="col-lg-12">
                                         <div className="form-group">
-                                           <button className="btn btn-success" type="submit">Save</button>
-                                           <Link to="/" className="btn btn-danger">Back</Link>
+                                           <button className="btn btn-success" type="submit" style={{backgroundColor:"gray", color:'white'}}>Save</button>
+                                           <Link to="/" className="btn btn-danger" style={{backgroundColor:'white', color:'brown'}}>Back</Link>
                                         </div>
                                     </div>
 
